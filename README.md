@@ -55,7 +55,8 @@
 </p>
 
 ## 🏆 Skills
-- 🏆 Application : Unity, Flutter, React Native, Godot, AR/VR, IOS, IPhone, Mobile App Development, Machine Learning
+- 🏆 Machine Learning, Python, AutoGPT, ChatGPT, AI System, Resful API, Finance Services, Data Analyze, etc
+- 🏆 Application : Unity, Flutter, React Native, Godot, AR/VR, IOS, IPhone, Mobile App Development,
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
 - 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
