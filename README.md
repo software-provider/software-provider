@@ -8,23 +8,27 @@
 <br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<p>
 - 🌱 Currently, AI system, ChatGPT, AutoGPT, Chat bot, etc. are developed using Machine Learning technology and actively utilized to help Real Estate business etc.
+</p>
+<p>
 - 🔭 We are 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Application and Mobile, Web based games 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+</p>
+<p>
 - 🌱 We are 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+</p>
+<p>
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **FullStack, Blockchain 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 If you want contact me.. [here](mailto:software.engineer3215@gmail.com) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **They/Them.**
+</p>
+<p>
+- 💬 If you want contact me.. (Telegram)[software_architecture215] ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+</p>
+<p>
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+</p>
 
 <br/>
 <br/>
-
-
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
 
 #
@@ -44,7 +48,8 @@
 </p>
 
 ## 🏆 Skills
-- 🏆 Application : Unity, Flutter, React Native, Godot, AR/VR, IOS, IPhone, Mobile App Development, Machine Learning
+- 🏆 Machine Learning, Python, AutoGPT, ChatGPT, AI System, Resful API, Finance Services, Data Analyze, etc
+- 🏆 Application : Unity, Flutter, React Native, Godot, AR/VR, IOS, IPhone, Mobile App Development,
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
 - 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
@@ -216,48 +221,6 @@
 <br/>
 
 #
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-
-<p align="center">
-    <img align="center" src="./SVG/states.svg"/>
-</p>
-</details>
-<br/>
-
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
-
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Games are something everyone enjoys.  @@
-@@   ❮(|~o.o~|)❯  Sometimes people don't, but...       @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
@@ -265,101 +228,6 @@
 
 #
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C747%20hrs%2046%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 12.9 MB Used in GitHub's Storage 
- > 
-> 🏆 10,341 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 205 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                11667 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌆 Daytime                20587 commits       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌃 Evening                28190 commits       █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌙 Night                  14292 commits       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   10402 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Tuesday                  10272 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Wednesday                10491 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Thursday                 10341 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Friday                   10411 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Saturday                 11146 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Sunday                   11673 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    11 hrs 17 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   11 hrs 17 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          11 hrs 15 mins      █████████████████████████   99.78 % 
-Software Provider        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-github-unfollower-detecto0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-A_REPO_WITH_295_STARS_AND0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-UditaVed                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Windows                  7 hrs 4 mins        ████████████████░░░░░░░░░   62.63 % 
-Unknown OS               4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.37 % 
-```
-
-**We make all games** 
-
-```text
-Application              39 repos            ████████████░░░░░░░░░░░░░   47.38 % 
-Mobile                   24 repos            ███████░░░░░░░░░░░░░░░░░░   30.00 % 
-Web based                13 repos            ████░░░░░░░░░░░░░░░░░░░░░   22.62 % 
-```
-
-
-
-
- Last Updated on 07/05/2023 02:15:45 UTC
-<!--END_SECTION:waka-->
-
-
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
 <p align="center">
   <img width="75%" src="metrics.svg"/>
-  <img width="75%" src="metrics.detailed.svg"/>
 </p>
